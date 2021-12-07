@@ -3,6 +3,10 @@
  *  Copyright 2021 Kameryn Cambridge
  */
 
+#include "std_lib_facilities.h"
+#include <iostream>
+#include <cmath>
+
 const char number = '8';
 const char quit = 'q';
 const char print = ';';
